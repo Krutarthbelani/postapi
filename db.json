@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "name": "adam", "address": "ontario" }
+    { "id": 1, "name": "adam", "address": "ontario" },
     { "id": 2, "name": "sam", "address": "toranto" }
   ]
 }
